@@ -1,0 +1,21 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.container {
+  width: auto;
+}
+
+#wiki {
+  width: 140px;
+  height: 25px;
+  justify-content: center;
+}
+
+#wiki2 {
+  width: 80px;
+  height: 55px;
+}
